@@ -42,8 +42,8 @@
                         "vmCount": 1,
                         "namePrefix": "jb",
                         "size": "Standard_DS1_v2",
-                        "adminUsername": "",
-                        "adminPassword": "",
+                        "adminUsername": "chrisadmin",
+                        "adminPassword": "SAWadmin2020",
                         "osType": "windows",
                         "virtualNetwork": {
                             "name": "onprem-vnet"
@@ -63,8 +63,8 @@
                         "computerNamePrefix": "ad",
                         "namePrefix": "ad",
                         "size": "Standard_DS3_v2",
-                        "adminUsername": "",
-                        "adminPassword": "",
+                        "adminUsername": "chrisadmin",
+                        "adminPassword": "SAWadmin2020",
                         "osType": "windows",
                         "virtualNetwork": {
                             "name": "onprem-vnet"
